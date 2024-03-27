@@ -2,7 +2,7 @@
     $servidor = "localhost";
     $usuario  = "root";
     $senha = "";
-    $banco  = "vitrine3";
+    $banco  = "vitrine";
 
     
     try {
